@@ -1,0 +1,14 @@
+<svg id="Send" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53.353" height="53.353" viewBox="0 0 53.353 53.353">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Icon_-_Arrow_Left_Background_Mask_" data-name="Icon - Arrow Left (Background/Mask)" width="32.012" height="32.012" transform="translate(32.012 32.012) rotate(180)" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Bg" width="53.353" height="53.353" fill="#ff7600"/>
+  <g id="Icon_-_Arrow_Left" data-name="Icon - Arrow Left" transform="translate(10.671 10.671)">
+    <rect id="Icon_-_Arrow_Left_Background_Mask_2" data-name="Icon - Arrow Left (Background/Mask)" width="32.012" height="32.012" transform="translate(32.012 32.012) rotate(180)" fill="none"/>
+    <g id="Icon_-_Arrow_Left-2" data-name="Icon - Arrow Left" clip-path="url(#clip-path)">
+      <path id="Vector" d="M9.733.388a1.348,1.348,0,0,1,1.9.006L20.968,9.73a1.328,1.328,0,0,1,0,1.881l-9.337,9.337a1.348,1.348,0,0,1-1.9.006,1.328,1.328,0,0,1-.006-1.886L16.79,12H1.342a1.334,1.334,0,1,1,0-2.668H16.79L9.728,2.274A1.328,1.328,0,0,1,9.733.388Z" transform="translate(5.002 5.002)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
